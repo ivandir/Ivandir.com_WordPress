@@ -1,3 +1,4 @@
+#Used in https://ivandir.com/2017/03/19/docker-hosting-for-wordpress/
 version: '3'
 services:
  db:
